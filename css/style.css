@@ -58,7 +58,7 @@ body {
 .header {
     position: relative;
     height: 380px;
-    background-image: url('/unnamed.jpg');
+    background-image: url('../unnamed.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
